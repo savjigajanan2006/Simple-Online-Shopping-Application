@@ -1,4 +1,4 @@
-# 🛒 Online Shopping Main
+# 🛒 Simple Online Shopping Application
 
 Welcome to **Online Shopping Main** – a modern, robust, and user-friendly online shopping platform built to deliver an exceptional e-commerce experience.
 
@@ -36,7 +36,7 @@ online-shopping-main/
 ## 💡 Getting Started
 
 1. **Clone the repository**  
-   `git clone https://github.com/ommankar2008/online-shopping-main.git`
+   `git clone https://github.com/savjigajanan2006/Simple-Online-Shopping-Application.git`
 
 2. **Setup Database**  
    - Import the provided SQL schema into MySQL.
@@ -45,7 +45,7 @@ online-shopping-main/
 3. **Run the Application**  
    - Import the project into your favorite IDE (Eclipse/IntelliJ).
    - Deploy on a servlet container (e.g., Apache Tomcat).
-   - Access the app via `http://localhost:8080/online-shopping-main/`
+   - Access the app via `http://localhost:9192/`
 
 ## 🤝 Contributors
 
@@ -54,16 +54,12 @@ A special thanks to my partners for their dedication and hard work during develo
 - [@savjigajanan2006](https://github.com/savjigajanan2006) – *Gajanan Savji*
 - [@vedantkolte2016](https://github.com/vedantkolte2016) – *Vedant Kolte*
 - [@shiv-2707](https://github.com/shiv-2707) – *Shivraj Dalave*
-- [@ommankar2008](https://github.com/ommankar2008) – *Om Mankar* (Project Lead)
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
+- [@ommankar2008](https://github.com/ommankar2008) – *Om Mankar*
 
 ## 📬 Contact
 
-For queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/ommankar2008/online-shopping-main/issues).
+For queries or feedback, feel free to reach out via (https://github.com/savjigajanan2006)
 
 ---
 
-> Designed and developed with 💙 by Om Mankar & team.
+> Designed and developed with 💙 by Gajanan Savji & team.
